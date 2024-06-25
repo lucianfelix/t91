@@ -2,4 +2,4 @@ mountpoints:
   /:
       url: https://sidewalk.live/projection-hlx/aem-sites-engineering/wknd/gw/t91/
       type: markup
-      suffix: ".md
+      suffix: ".md"
